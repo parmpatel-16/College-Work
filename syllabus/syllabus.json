@@ -1,0 +1,2532 @@
+[
+  {
+    "code": "BE01000011",
+    "name": "Student Induction Program  with essence of Indian  Knowledge System",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Mandatory Non-Credit Courses – Audit Course",
+    "sem": "1",
+    "credits": "0",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000011.pdf"
+  },
+  {
+    "code": "BE01000021",
+    "name": "Physics",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Basic Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000021.pdf"
+  },
+  {
+    "code": "BE01000031",
+    "name": "Chemistry",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Basic Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000031.pdf"
+  },
+  {
+    "code": "BE01000041",
+    "name": "Mathematics-I",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Basic Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000041.pdf"
+  },
+  {
+    "code": "BE01000051",
+    "name": "Basic Electrical Engineering",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000051.pdf"
+  },
+  {
+    "code": "BE01000061",
+    "name": "Engineering Graphics & Design",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000061.pdf"
+  },
+  {
+    "code": "BE01000071",
+    "name": "Design Thinking",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000071.pdf"
+  },
+  {
+    "code": "BE01000081",
+    "name": "Basic Mechanical Engineering",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000081.pdf"
+  },
+  {
+    "code": "BE01000111",
+    "name": "Basic Electronics Engineering",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000111.pdf"
+  },
+  {
+    "code": "BE01000121",
+    "name": "Programming for Problem Solving",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000121.pdf"
+  },
+  {
+    "code": "BE01000141",
+    "name": "Universal Human Values",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000141.pdf"
+  },
+  {
+    "code": "BE01000151",
+    "name": "Contributor Personality Development Program",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000151.pdf"
+  },
+  {
+    "code": "BE01000161",
+    "name": "Integrated Personality Development Course",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000161.pdf"
+  },
+  {
+    "code": "BE01000181",
+    "name": "Digital Fabrication Workshop",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "1",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01000181.pdf"
+  },
+  {
+    "code": "BE01R00011",
+    "name": "Student Induction Program  with essence of Indian  Knowledge System",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Mandatory Non-Credit Courses – Audit Course",
+    "sem": "1",
+    "credits": "0",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00011.pdf"
+  },
+  {
+    "code": "BE01R00021",
+    "name": "Physics",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Basic Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00021.pdf"
+  },
+  {
+    "code": "BE01R00031",
+    "name": "Chemistry",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Basic Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00031.pdf"
+  },
+  {
+    "code": "BE01R00041",
+    "name": "Mathematics-I",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Basic Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00041.pdf"
+  },
+  {
+    "code": "BE01R00051",
+    "name": "Basic Electrical Engineering",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00051.pdf"
+  },
+  {
+    "code": "BE01R00061",
+    "name": "Engineering Graphics & Design",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00061.pdf"
+  },
+  {
+    "code": "BE01R00071",
+    "name": "Design Thinking",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00071.pdf"
+  },
+  {
+    "code": "BE01R00081",
+    "name": "Basic Mechanical Engineering",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00081.pdf"
+  },
+  {
+    "code": "BE01R00111",
+    "name": "Basic Electronics Engineering",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00111.pdf"
+  },
+  {
+    "code": "BE01R00121",
+    "name": "Programming for Problem Solving",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00121.pdf"
+  },
+  {
+    "code": "BE01R00141",
+    "name": "Universal Human Values",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00141.pdf"
+  },
+  {
+    "code": "BE01R00151",
+    "name": "Contributor Personality Development Program",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00151.pdf"
+  },
+  {
+    "code": "BE01R00161",
+    "name": "Integrated Personality Development Course",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00161.pdf"
+  },
+  {
+    "code": "BE01R00181",
+    "name": "Digital Fabrication Workshop",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Engineering Science Courses",
+    "sem": "1",
+    "credits": "1",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01R00181.pdf"
+  },
+  {
+    "code": "BE01RR0021",
+    "name": "Physics",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Basic Science Courses",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE01RR0021.pdf"
+  },
+  {
+    "code": "BE02000011",
+    "name": "Mathematics – 2",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Basic Science Courses",
+    "sem": "2",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02000011.pdf"
+  },
+  {
+    "code": "BE02000021",
+    "name": "English for Technical Communication",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "2",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02000021.pdf"
+  },
+  {
+    "code": "BE02000031",
+    "name": "Intellectual Property Rights",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "2",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02000031.pdf"
+  },
+  {
+    "code": "BE02000041",
+    "name": "Fundamental of AI",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "2",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02000041.pdf"
+  },
+  {
+    "code": "BE02000061",
+    "name": "Industrial Safety and Standards",
+    "branch": "009",
+    "effectiveYear": "2024-25",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "2",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02000061.pdf"
+  },
+  {
+    "code": "BE02R00011",
+    "name": "Mathematics – 2",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Basic Science Courses",
+    "sem": "2",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02R00011.pdf"
+  },
+  {
+    "code": "BE02R00021",
+    "name": "English for Technical Communication",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Humanities and Social Science, including Management Courses",
+    "sem": "2",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02R00021.pdf"
+  },
+  {
+    "code": "BE02R00031",
+    "name": "Intellectual Property Rights",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "2",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02R00031.pdf"
+  },
+  {
+    "code": "BE02R00041",
+    "name": "Fundamental of AI",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "2",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02R00041.pdf"
+  },
+  {
+    "code": "BE02R00061",
+    "name": "Industrial Safety and Standards",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "2",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02R00061.pdf"
+  },
+  {
+    "code": "BE02R00071",
+    "name": "Standardization and Quality Ecosystem",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "2",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE02R00071.pdf"
+  },
+  {
+    "code": "BE03000051",
+    "name": "Professional Communication and Ethics",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Humanities and Social Science, including Management Courses (Elective)",
+    "sem": "3",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE03000051.pdf"
+  },
+  {
+    "code": "BE03000061",
+    "name": "Indian Constitution",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Core Courses",
+    "sem": "3",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE03000061.pdf"
+  },
+  {
+    "code": "BE03000191",
+    "name": "Numerical Methods for Electrical Engineering",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Basic Science Courses",
+    "sem": "3",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE03000191.pdf"
+  },
+  {
+    "code": "BE03009011",
+    "name": "Analog and Digital Electronics",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Professional Core Courses",
+    "sem": "3",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE03009011.pdf"
+  },
+  {
+    "code": "BE03009021",
+    "name": "Electrical Machines I",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Professional Core Courses",
+    "sem": "3",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE03009021.pdf"
+  },
+  {
+    "code": "BE03009031",
+    "name": "Electrical Circuit Analysis",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Professional Core Courses",
+    "sem": "3",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE03009031.pdf"
+  },
+  {
+    "code": "BE03R00241",
+    "name": "Indian Knowledge System for Engineering",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Humanities and Social Science, including Management Courses (Elective)",
+    "sem": "3",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE03R00241.pdf"
+  },
+  {
+    "code": "BE04000101",
+    "name": "Environmental Science, Sustainability and Renewable Energy",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Core Courses",
+    "sem": "4",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE04000101.pdf"
+  },
+  {
+    "code": "BE04009011",
+    "name": "Electrical Machines-II",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Professional Core Courses",
+    "sem": "4",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE04009011.pdf"
+  },
+  {
+    "code": "BE04009021",
+    "name": "Engineering Electromagnetics",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Basic Science Courses",
+    "sem": "4",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE04009021.pdf"
+  },
+  {
+    "code": "BE04009031",
+    "name": "Power Electronics",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Professional Core Courses",
+    "sem": "4",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE04009031.pdf"
+  },
+  {
+    "code": "BE04009041",
+    "name": "Power Systems l",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Professional Core Courses",
+    "sem": "4",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE04009041.pdf"
+  },
+  {
+    "code": "BE04009051",
+    "name": "Signals and Systems",
+    "branch": "009",
+    "effectiveYear": "2025-26",
+    "category": "Professional Core Courses",
+    "sem": "4",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE04009051.pdf"
+  },
+  {
+    "code": "BE05000011",
+    "name": "Societal Internship",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Project Work",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000011.pdf"
+  },
+  {
+    "code": "BE05000441",
+    "name": "Application of Remote Sensing and GIS in Engineering",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000441.pdf"
+  },
+  {
+    "code": "BE05000451",
+    "name": "Occupational Health & Safety Management",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000451.pdf"
+  },
+  {
+    "code": "BE05000461",
+    "name": "Fuzzy Logic and Genetic Programming",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000461.pdf"
+  },
+  {
+    "code": "BE05000471",
+    "name": "Oil Hydraulics and Pneumatics",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000471.pdf"
+  },
+  {
+    "code": "BE05000481",
+    "name": "Project Management",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000481.pdf"
+  },
+  {
+    "code": "BE05000491",
+    "name": "Introduction to Biomedical Technology",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000491.pdf"
+  },
+  {
+    "code": "BE05000511",
+    "name": "Computer Organization & Architecture",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000511.pdf"
+  },
+  {
+    "code": "BE05000521",
+    "name": "Sustainability and Circularity in Textile Industry",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000521.pdf"
+  },
+  {
+    "code": "BE05000531",
+    "name": "Textile for Engineering Application",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000531.pdf"
+  },
+  {
+    "code": "BE05000561",
+    "name": "Sustainable Energy Technology",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000561.pdf"
+  },
+  {
+    "code": "BE05000571",
+    "name": "Sustainable Polymers: Materials, Safety and Circular Economy",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Multidisciplinary Open Professional Electives Courses",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05000571.pdf"
+  },
+  {
+    "code": "BE05009011",
+    "name": "Control Systems",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Core Courses",
+    "sem": "5",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009011.pdf"
+  },
+  {
+    "code": "BE05009021",
+    "name": "Power Systems-II",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Core Courses",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009021.pdf"
+  },
+  {
+    "code": "BE05009031",
+    "name": "Measurement and Instrumentation",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Core Courses",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009031.pdf"
+  },
+  {
+    "code": "BE05009041",
+    "name": "Elements of Electrical Design",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Elective - I",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009041.pdf"
+  },
+  {
+    "code": "BE05009051",
+    "name": "Renewable Energy Technology",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Elective - I",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009051.pdf"
+  },
+  {
+    "code": "BE05009061",
+    "name": "Advanced Power Electronics",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Elective - I",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009061.pdf"
+  },
+  {
+    "code": "BE05009071",
+    "name": "High Voltage Engineering",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Elective - II",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009071.pdf"
+  },
+  {
+    "code": "BE05009081",
+    "name": "Energy Management and Audit",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Elective - II",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009081.pdf"
+  },
+  {
+    "code": "BE05009091",
+    "name": "Electrical Distribution Systems",
+    "branch": "009",
+    "effectiveYear": "2026-27",
+    "category": "Professional Elective - II",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/BE05009091.pdf"
+  },
+  {
+    "code": "110001",
+    "name": "Chemistry",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110001.pdf"
+  },
+  {
+    "code": "110002",
+    "name": "Communication Skills",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110002.pdf"
+  },
+  {
+    "code": "110003",
+    "name": "Computer Programming and Utilization",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110003.pdf"
+  },
+  {
+    "code": "110004",
+    "name": "Elements of Civil Engineering",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110004.pdf"
+  },
+  {
+    "code": "110005",
+    "name": "Elements of Electrical Engineering",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110005.pdf"
+  },
+  {
+    "code": "110006",
+    "name": "Elements of Mechanical Engineering",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110006.pdf"
+  },
+  {
+    "code": "110007",
+    "name": "Environmental Studies",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110007.pdf"
+  },
+  {
+    "code": "110010",
+    "name": "Mechanics of Solids",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110010.pdf"
+  },
+  {
+    "code": "110011",
+    "name": "Physics",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110011.pdf"
+  },
+  {
+    "code": "110012",
+    "name": "Workshop",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110012.pdf"
+  },
+  {
+    "code": "110013",
+    "name": "Engineering Graphics",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110013.pdf"
+  },
+  {
+    "code": "110014",
+    "name": "Calculus",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110014.pdf"
+  },
+  {
+    "code": "110015",
+    "name": "Vector Calculus and Linear Algebra",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/110015.pdf"
+  },
+  {
+    "code": "1990001",
+    "name": "Contributor Personality Development",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/1990001.pdf"
+  },
+  {
+    "code": "2110002",
+    "name": "Communication Skills",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110002.pdf"
+  },
+  {
+    "code": "2110003",
+    "name": "Computer Programming And Utilization",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110003.pdf"
+  },
+  {
+    "code": "2110005",
+    "name": "Elements of Electrical Engineering",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110005.pdf"
+  },
+  {
+    "code": "2110006",
+    "name": "Elements of Mechanical Engineering",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110006.pdf"
+  },
+  {
+    "code": "2110007",
+    "name": "Environmental Studies",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110007.pdf"
+  },
+  {
+    "code": "2110011",
+    "name": "Physics",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110011.pdf"
+  },
+  {
+    "code": "2110013",
+    "name": "Engineering Graphics",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110013.pdf"
+  },
+  {
+    "code": "2110014",
+    "name": "Calculus",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110014.pdf"
+  },
+  {
+    "code": "2110015",
+    "name": "Vector Calculus And Linear Algebra",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110015.pdf"
+  },
+  {
+    "code": "2110016",
+    "name": "Basic Electronics",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110016.pdf"
+  },
+  {
+    "code": "2110017",
+    "name": "Electrical and Electronics Workshop",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2110017.pdf"
+  },
+  {
+    "code": "2990001",
+    "name": "Contributor Personality Development",
+    "branch": "09",
+    "effectiveYear": "June 2013",
+    "category": "Compulsory",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2990001.pdf"
+  },
+  {
+    "code": "3110001",
+    "name": "Chemistry",
+    "branch": "09",
+    "effectiveYear": "Oct - 21",
+    "category": "Basic Science (Elective)",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110001.pdf"
+  },
+  {
+    "code": "3110002",
+    "name": "English",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Humanities and Social Science",
+    "sem": "1",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110002.pdf"
+  },
+  {
+    "code": "3110003",
+    "name": "Programming for Problem Solving",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Engineering Science",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110003.pdf"
+  },
+  {
+    "code": "3110005",
+    "name": "Basic Electrical Engineering",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Engineering Science",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110005.pdf"
+  },
+  {
+    "code": "3110006",
+    "name": "Basic Mechanical Engineering",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Engineering Science",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110006.pdf"
+  },
+  {
+    "code": "3110007",
+    "name": "Environmental Sciences",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Mandatory",
+    "sem": "1",
+    "credits": "0",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110007.pdf"
+  },
+  {
+    "code": "3110012",
+    "name": "Workshop/ Manufacturing Practices",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Engineering Science",
+    "sem": "1",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110012.pdf"
+  },
+  {
+    "code": "3110013",
+    "name": "Engineering Graphics & Design",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Engineering Science",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110013.pdf"
+  },
+  {
+    "code": "3110014",
+    "name": "Mathematics - 1",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Basic Science",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110014.pdf"
+  },
+  {
+    "code": "3110015",
+    "name": "Mathematics - 2",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Basic Science",
+    "sem": "1",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110015.pdf"
+  },
+  {
+    "code": "3110016",
+    "name": "Basic Electronics",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Engineering Science",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110016.pdf"
+  },
+  {
+    "code": "3110017",
+    "name": "Induction Program",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Mandatory",
+    "sem": "1",
+    "credits": "0",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110017.pdf"
+  },
+  {
+    "code": "3110018",
+    "name": "Physics",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Basic Science (Elective)",
+    "sem": "1",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110018.pdf"
+  },
+  {
+    "code": "130002",
+    "name": "Advanced Engineering Mathematics",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/130002.pdf"
+  },
+  {
+    "code": "130901",
+    "name": "Circuits and Networks",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/130901.pdf"
+  },
+  {
+    "code": "130902",
+    "name": "Analog and Digital Electronics",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/130902.pdf"
+  },
+  {
+    "code": "130903",
+    "name": "Electrical and Electronics\nMeasuring Instruments",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/130903.pdf"
+  },
+  {
+    "code": "130904",
+    "name": "Electrical Machines-I",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/130904.pdf"
+  },
+  {
+    "code": "131101",
+    "name": "Basic Electronics",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/131101.pdf"
+  },
+  {
+    "code": "2130002",
+    "name": "Advance Engineering Mathematics",
+    "branch": "09",
+    "effectiveYear": "June 2014",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2130002.pdf"
+  },
+  {
+    "code": "2130004",
+    "name": "Engineering Economics and Management",
+    "branch": "09",
+    "effectiveYear": "June 2014",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2130004.pdf"
+  },
+  {
+    "code": "2130005",
+    "name": "Design Engineering I-A",
+    "branch": "09",
+    "effectiveYear": "June 2014",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2130005.pdf"
+  },
+  {
+    "code": "2130901",
+    "name": "Circuits and Networks",
+    "branch": "09",
+    "effectiveYear": "June 2014",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2130901.pdf"
+  },
+  {
+    "code": "2130902",
+    "name": "Analog Electronics",
+    "branch": "09",
+    "effectiveYear": "June 2014",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2130902.pdf"
+  },
+  {
+    "code": "2130903",
+    "name": "Electrical Measurement and Measuring Instruments",
+    "branch": "09",
+    "effectiveYear": "June 2014",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2130903.pdf"
+  },
+  {
+    "code": "2130904",
+    "name": "DC Machines and Transformer",
+    "branch": "09",
+    "effectiveYear": "June 2014",
+    "category": "Compulsory",
+    "sem": "3",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2130904.pdf"
+  },
+  {
+    "code": "3130004",
+    "name": "Effective Technical Communication",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Humanities and Social Science",
+    "sem": "3",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3130004.pdf"
+  },
+  {
+    "code": "3130007",
+    "name": "Indian Constitution",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Mandatory",
+    "sem": "3",
+    "credits": "0",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3130007.pdf"
+  },
+  {
+    "code": "3130008",
+    "name": "Design Engineering - I A",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Project Work",
+    "sem": "3",
+    "credits": "1",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3130008.pdf"
+  },
+  {
+    "code": "3130905",
+    "name": "Control System Theory",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Engineering Science",
+    "sem": "3",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3130905.pdf"
+  },
+  {
+    "code": "3130906",
+    "name": "Electrical Circuit Analysis",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Professional Core",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3130906.pdf"
+  },
+  {
+    "code": "3130907",
+    "name": "Analog & Digital Electronics",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Professional Core",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3130907.pdf"
+  },
+  {
+    "code": "3130908",
+    "name": "Applied Mathematics for Electrical Engineering",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Basic Science",
+    "sem": "3",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3130908.pdf"
+  },
+  {
+    "code": "140001",
+    "name": "Mathematics-IV",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/140001.pdf"
+  },
+  {
+    "code": "140002",
+    "name": "Management-I",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/140002.pdf"
+  },
+  {
+    "code": "140701",
+    "name": "Microprocessor And Interfacing",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/140701.pdf"
+  },
+  {
+    "code": "140902",
+    "name": "Electrical Power",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/140902.pdf"
+  },
+  {
+    "code": "140903",
+    "name": "Electrical And Electronics Workshop",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/140903.pdf"
+  },
+  {
+    "code": "140904",
+    "name": "Energy Systems",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Institute Elective",
+    "sem": "4",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/140904.pdf"
+  },
+  {
+    "code": "141701",
+    "name": "Control Theory",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/141701.pdf"
+  },
+  {
+    "code": "2140906",
+    "name": "AC Machines",
+    "branch": "09",
+    "effectiveYear": "Dec 2014",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2140906.pdf"
+  },
+  {
+    "code": "2140907",
+    "name": "Applied Thermal and Hydraulic Engineering",
+    "branch": "09",
+    "effectiveYear": "Dec 2014",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2140907.pdf"
+  },
+  {
+    "code": "2140908",
+    "name": "Electrical Power Generation",
+    "branch": "09",
+    "effectiveYear": "Dec 2014",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2140908.pdf"
+  },
+  {
+    "code": "2140909",
+    "name": "Field Theory",
+    "branch": "09",
+    "effectiveYear": "Dec 2014",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2140909.pdf"
+  },
+  {
+    "code": "2140910",
+    "name": "Digital Electronics",
+    "branch": "09",
+    "effectiveYear": "Dec 2014",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2140910.pdf"
+  },
+  {
+    "code": "2141005",
+    "name": "Signals and Systems",
+    "branch": "09",
+    "effectiveYear": "Dec 2014",
+    "category": "Compulsory",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2141005.pdf"
+  },
+  {
+    "code": "3140005",
+    "name": "Design Engineering 1 B",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Project Work",
+    "sem": "4",
+    "credits": "1",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3140005.pdf"
+  },
+  {
+    "code": "3140911",
+    "name": "Economics for Engineers",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Humanities and Social Science",
+    "sem": "4",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3140911.pdf"
+  },
+  {
+    "code": "3140912",
+    "name": "Electromagnetic Fields",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Basic Science",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3140912.pdf"
+  },
+  {
+    "code": "3140913",
+    "name": "Electrical Machine- I",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Professional Core",
+    "sem": "4",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3140913.pdf"
+  },
+  {
+    "code": "3140914",
+    "name": "Power System- I",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Professional Core",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3140914.pdf"
+  },
+  {
+    "code": "3140915",
+    "name": "Power Electronics",
+    "branch": "09",
+    "effectiveYear": "2018-19",
+    "category": "Professional Core",
+    "sem": "4",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3140915.pdf"
+  },
+  {
+    "code": "150001",
+    "name": "Management - II",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/150001.pdf"
+  },
+  {
+    "code": "150901",
+    "name": "Electrical Machine - II",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/150901.pdf"
+  },
+  {
+    "code": "150902",
+    "name": "Power System Analysis and\nSimulation",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/150902.pdf"
+  },
+  {
+    "code": "150903",
+    "name": "Power Electronics - I",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/150903.pdf"
+  },
+  {
+    "code": "150904",
+    "name": "Elements of Electrical Design",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/150904.pdf"
+  },
+  {
+    "code": "150905",
+    "name": "Switchgear",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/150905.pdf"
+  },
+  {
+    "code": "150906",
+    "name": "Electrical Power Utilization And Traction",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Institute Elective",
+    "sem": "5",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/150906.pdf"
+  },
+  {
+    "code": "2150001",
+    "name": "Design Engineering - II A",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150001.pdf"
+  },
+  {
+    "code": "2150002",
+    "name": "Institute Elective - Cyber Security",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Institute Elective",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150002.pdf"
+  },
+  {
+    "code": "2150003",
+    "name": "Institute Elective - Diaster Management",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Institute Elective",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150003.pdf"
+  },
+  {
+    "code": "2150903",
+    "name": "Power Electronics – I",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150903.pdf"
+  },
+  {
+    "code": "2150904",
+    "name": "Elements of Electrical Design",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150904.pdf"
+  },
+  {
+    "code": "2150907",
+    "name": "Microprocessor and Microcontroller Architecture & Interfacing",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150907.pdf"
+  },
+  {
+    "code": "2150908",
+    "name": "Electrical Power System – I",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150908.pdf"
+  },
+  {
+    "code": "2150909",
+    "name": "Control System Engineering",
+    "branch": "09",
+    "effectiveYear": "June 2015",
+    "category": "Compulsory",
+    "sem": "5",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2150909.pdf"
+  },
+  {
+    "code": "3150001",
+    "name": "Design Engineering - II A",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Project Work",
+    "sem": "5",
+    "credits": "1",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150001.pdf"
+  },
+  {
+    "code": "3150004",
+    "name": "Contributor Personality Development Program",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Personality development Elective",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150004.pdf"
+  },
+  {
+    "code": "3150005",
+    "name": "Integrated Personality Development Course",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Personality development Elective",
+    "sem": "5",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150005.pdf"
+  },
+  {
+    "code": "3150709",
+    "name": "Professional Ethics",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Humanities and Social Science",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150709.pdf"
+  },
+  {
+    "code": "3150910",
+    "name": "Electrical Machine- II",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Professional Core",
+    "sem": "5",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150910.pdf"
+  },
+  {
+    "code": "3150911",
+    "name": "Power System- II",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Professional Core",
+    "sem": "5",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150911.pdf"
+  },
+  {
+    "code": "3150912",
+    "name": "Signals and Systems",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Professional Core",
+    "sem": "5",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150912.pdf"
+  },
+  {
+    "code": "3150913",
+    "name": "Disaster Management",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Open Elective - I",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3150913.pdf"
+  },
+  {
+    "code": "3151108",
+    "name": "Python Programming",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Open Elective - I",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3151108.pdf"
+  },
+  {
+    "code": "3151910",
+    "name": "Operation Research",
+    "branch": "09",
+    "effectiveYear": "June 2020",
+    "category": "Open Elective - I",
+    "sem": "5",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3151910.pdf"
+  },
+  {
+    "code": "160901",
+    "name": "Electrical Machines - III",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/160901.pdf"
+  },
+  {
+    "code": "160902",
+    "name": "Power Electronics - II",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/160902.pdf"
+  },
+  {
+    "code": "160903",
+    "name": "Microcontroller",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/160903.pdf"
+  },
+  {
+    "code": "160904",
+    "name": "High Voltage Engineering",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/160904.pdf"
+  },
+  {
+    "code": "160905",
+    "name": "Electrical and ElectronicMeasurement",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/160905.pdf"
+  },
+  {
+    "code": "160906",
+    "name": "Theory of Electromagnetics",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/160906.pdf"
+  },
+  {
+    "code": "2160001",
+    "name": "Design Engineering - II B",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160001.pdf"
+  },
+  {
+    "code": "2160902",
+    "name": "Power Electronics – II",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160902.pdf"
+  },
+  {
+    "code": "2160904",
+    "name": "High Voltage Engineering",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160904.pdf"
+  },
+  {
+    "code": "2160907",
+    "name": "Utilization of Electrical Energy and Traction",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160907.pdf"
+  },
+  {
+    "code": "2160908",
+    "name": "Electrical Power system – II",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160908.pdf"
+  },
+  {
+    "code": "2160909",
+    "name": "Advance Microcontrollers",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Departmental Elective I",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160909.pdf"
+  },
+  {
+    "code": "2160911",
+    "name": "Computer Aided Analysis and Design for Electrical Engg.",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Departmental Elective I",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160911.pdf"
+  },
+  {
+    "code": "2160912",
+    "name": "Design of DC Machines and Transformer",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Compulsory",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160912.pdf"
+  },
+  {
+    "code": "2160913",
+    "name": "Control of Electrical Drives",
+    "branch": "09",
+    "effectiveYear": "Dec 2015",
+    "category": "Departmental Elective I",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2160913.pdf"
+  },
+  {
+    "code": "3160001",
+    "name": "Design Engineering II B",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Project Work",
+    "sem": "6",
+    "credits": "1",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160001.pdf"
+  },
+  {
+    "code": "3160002",
+    "name": "Contributor Personality Development Program",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Personality development Elective",
+    "sem": "6",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160002.pdf"
+  },
+  {
+    "code": "3160003",
+    "name": "Integrated Personality Development Course",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Personality development Elective",
+    "sem": "6",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160003.pdf"
+  },
+  {
+    "code": "3160004",
+    "name": "Fundamental of Semiconductor Package Manufacturing and Test",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Open elective - II",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160004.pdf"
+  },
+  {
+    "code": "3160914",
+    "name": "Microprocessors and Microcontrollers",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Core",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160914.pdf"
+  },
+  {
+    "code": "3160915",
+    "name": "Electrical Measurement and Measuring Instruments",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Core",
+    "sem": "6",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160915.pdf"
+  },
+  {
+    "code": "3160916",
+    "name": "Energy Conservation",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Elective - I",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160916.pdf"
+  },
+  {
+    "code": "3160917",
+    "name": "Wind And Solar Energy",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Elective - I",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160917.pdf"
+  },
+  {
+    "code": "3160918",
+    "name": "Element of Electrical Design",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Elective - I",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160918.pdf"
+  },
+  {
+    "code": "3160919",
+    "name": "Electric Drives",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Elective - II",
+    "sem": "6",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160919.pdf"
+  },
+  {
+    "code": "3160920",
+    "name": "Inter Connected Power System",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Elective - II",
+    "sem": "6",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160920.pdf"
+  },
+  {
+    "code": "3160921",
+    "name": "HVDC Transmission Systems",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Professional Elective - II",
+    "sem": "6",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160921.pdf"
+  },
+  {
+    "code": "3160922",
+    "name": "Object Oriented Programming",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Open elective - II",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160922.pdf"
+  },
+  {
+    "code": "3160923",
+    "name": "Electrical Materials",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Open elective - II",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3160923.pdf"
+  },
+  {
+    "code": "3161925",
+    "name": "Cyber Laws and Ethics",
+    "branch": "09",
+    "effectiveYear": "Dec-2020",
+    "category": "Open elective - II",
+    "sem": "6",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3161925.pdf"
+  },
+  {
+    "code": "170001",
+    "name": "Project - I",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "7",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170001.pdf"
+  },
+  {
+    "code": "170901",
+    "name": "Inter Connected Power System",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170901.pdf"
+  },
+  {
+    "code": "170902",
+    "name": "Electrical Machine Design-I",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Department Elective-I",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170902.pdf"
+  },
+  {
+    "code": "170903",
+    "name": "Power System Protection",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170903.pdf"
+  },
+  {
+    "code": "170904",
+    "name": "Industrial Instrumentation",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170904.pdf"
+  },
+  {
+    "code": "170905",
+    "name": "Advanced Power System - I",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Department Elective-I",
+    "sem": "7",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170905.pdf"
+  },
+  {
+    "code": "170906",
+    "name": "Advanced Power Electronics - I",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Department Elective-I",
+    "sem": "7",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170906.pdf"
+  },
+  {
+    "code": "170907",
+    "name": "Advanced Microcontrollers & Embedded System",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Department Elective-I",
+    "sem": "7",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/170907.pdf"
+  },
+  {
+    "code": "2170901",
+    "name": "Interconnected Power System",
+    "branch": "09",
+    "effectiveYear": "June 2017",
+    "category": "Compulsory",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2170901.pdf"
+  },
+  {
+    "code": "2170906",
+    "name": "Advanced Power Electronics",
+    "branch": "09",
+    "effectiveYear": "June 2017",
+    "category": "Departmental Elective II",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2170906.pdf"
+  },
+  {
+    "code": "2170908",
+    "name": "Switch Gear and Protection",
+    "branch": "09",
+    "effectiveYear": "June 2017",
+    "category": "Compulsory",
+    "sem": "7",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2170908.pdf"
+  },
+  {
+    "code": "2170909",
+    "name": "Design of AC Machines",
+    "branch": "09",
+    "effectiveYear": "June 2017",
+    "category": "Compulsory",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2170909.pdf"
+  },
+  {
+    "code": "2170913",
+    "name": "Industrial Instrumentation",
+    "branch": "09",
+    "effectiveYear": "June 2017",
+    "category": "Departmental Elective II",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2170913.pdf"
+  },
+  {
+    "code": "2170914",
+    "name": "Digital Signal Processing",
+    "branch": "09",
+    "effectiveYear": "June 2017",
+    "category": "Departmental Elective II",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2170914.pdf"
+  },
+  {
+    "code": "3170001",
+    "name": "Summer Internship",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Project",
+    "sem": "7",
+    "credits": "2",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170001.pdf"
+  },
+  {
+    "code": "3170906",
+    "name": "Advanced Power Electronics",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - IV",
+    "sem": "7",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170906.pdf"
+  },
+  {
+    "code": "3170908",
+    "name": "Switchgear And Protection",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Core",
+    "sem": "7",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170908.pdf"
+  },
+  {
+    "code": "3170909",
+    "name": "AC Machine Design",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - III",
+    "sem": "7",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170909.pdf"
+  },
+  {
+    "code": "3170914",
+    "name": "Advanced Microcontrollers",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - III",
+    "sem": "7",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170914.pdf"
+  },
+  {
+    "code": "3170915",
+    "name": "Power System Dynamics and Control",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - III",
+    "sem": "7",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170915.pdf"
+  },
+  {
+    "code": "3170916",
+    "name": "Advanced Electric Drives",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - IV",
+    "sem": "7",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170916.pdf"
+  },
+  {
+    "code": "3170917",
+    "name": "High Voltage Engineering",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - IV",
+    "sem": "7",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170917.pdf"
+  },
+  {
+    "code": "3170918",
+    "name": "Digital Signal Processors",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - V",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170918.pdf"
+  },
+  {
+    "code": "3170919",
+    "name": "Power System Operation and Control",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - V",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170919.pdf"
+  },
+  {
+    "code": "3170920",
+    "name": "Industrial Electrical Systems",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - V",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170920.pdf"
+  },
+  {
+    "code": "3170921",
+    "name": "Power Quality and FACTS",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - VI",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170921.pdf"
+  },
+  {
+    "code": "3170922",
+    "name": "Smart Grids",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - VI",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170922.pdf"
+  },
+  {
+    "code": "3170923",
+    "name": "Electrical and Hybrid Vehicle",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Professional Elective - VI",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170923.pdf"
+  },
+  {
+    "code": "3170924",
+    "name": "AI and Machine Learning",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Open Elective - III",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170924.pdf"
+  },
+  {
+    "code": "3170925",
+    "name": "Industrial Automation",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Open Elective - III",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3170925.pdf"
+  },
+  {
+    "code": "3171108",
+    "name": "Internet of Things",
+    "branch": "09",
+    "effectiveYear": "June 2021",
+    "category": "Open Elective - III",
+    "sem": "7",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3171108.pdf"
+  },
+  {
+    "code": "180901",
+    "name": "Commissioning of Electrical\nEquipments",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/180901.pdf"
+  },
+  {
+    "code": "180902",
+    "name": "Electrical Power Utilization",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "8",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/180902.pdf"
+  },
+  {
+    "code": "180903",
+    "name": "Power System Practice and\nDesign",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "8",
+    "credits": "3",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/180903.pdf"
+  },
+  {
+    "code": "180904",
+    "name": "Electrical Machine Design II",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Compulsory",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/180904.pdf"
+  },
+  {
+    "code": "180906",
+    "name": "Advanced Power System -II",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Department Elective - II",
+    "sem": "8",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/180906.pdf"
+  },
+  {
+    "code": "180907",
+    "name": "Advanced Power Electronics -II",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Department Elective - II",
+    "sem": "8",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/180907.pdf"
+  },
+  {
+    "code": "180908",
+    "name": "Advanced Processor And Controllers",
+    "branch": "09",
+    "effectiveYear": "2008-09",
+    "category": "Departmental Elective II",
+    "sem": "8",
+    "credits": "6",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/180908.pdf"
+  },
+  {
+    "code": "2180901",
+    "name": "Testing and Commissioning of Electrical\nEquipments",
+    "branch": "09",
+    "effectiveYear": "Dec 2017",
+    "category": "Compulsory",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2180901.pdf"
+  },
+  {
+    "code": "2180903",
+    "name": "Power System Planning and Design",
+    "branch": "09",
+    "effectiveYear": "Dec 2017",
+    "category": "Compulsory",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2180903.pdf"
+  },
+  {
+    "code": "2180909",
+    "name": "Power System Operation and Control",
+    "branch": "09",
+    "effectiveYear": "Dec 2017",
+    "category": "Compulsory",
+    "sem": "8",
+    "credits": "4",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2180909.pdf"
+  },
+  {
+    "code": "2180910",
+    "name": "Energy Conservation and Audit",
+    "branch": "09",
+    "effectiveYear": "Dec 2017",
+    "category": "Departmental Elective III",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2180910.pdf"
+  },
+  {
+    "code": "2180911",
+    "name": "Power Quality and Management",
+    "branch": "09",
+    "effectiveYear": "Dec 2017",
+    "category": "Departmental Elective III",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2180911.pdf"
+  },
+  {
+    "code": "2180912",
+    "name": "Condition Monitoring",
+    "branch": "09",
+    "effectiveYear": "Dec 2017",
+    "category": "Departmental Elective III",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2180912.pdf"
+  },
+  {
+    "code": "2180913",
+    "name": "Advanced Control Systems",
+    "branch": "09",
+    "effectiveYear": "Dec 2017",
+    "category": "Departmental Elective III",
+    "sem": "8",
+    "credits": "5",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/2180913.pdf"
+  },
+  {
+    "code": "3180901",
+    "name": "Internship/Project",
+    "branch": "09",
+    "effectiveYear": "Dec 2021",
+    "category": "Project Work",
+    "sem": "8",
+    "credits": "12",
+    "directS3": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3180901.pdf"
+  }
+]
